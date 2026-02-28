@@ -1,0 +1,5 @@
+User Story ID,User Story,Priority,Status
+US-01,As an employee I want to apply for leave online so that I can avoid manual emails,High,Open
+US-02,As a manager I want to approve or reject leave requests so that I can manage team availability,High,Open
+US-03,As HR I want to generate leave reports so that I can monitor leave trends,Medium,Open
+US-04,As an employee I want to see my leave balance so that I can plan accordingly,High,Open
