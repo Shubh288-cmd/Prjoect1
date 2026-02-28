@@ -1,1 +1,47 @@
 
+# Business Requirement Document (BRD)
+## Project: Employee Leave Management System
+
+### 1. Business Objective
+To automate the employee leave application and approval process to reduce manual errors and approval delays.
+
+### 2. Problem Statement
+Currently, employees apply for leave via email and Excel sheets. This results in:
+- Delayed approvals
+- Data inconsistency
+- Lack of centralized tracking
+
+### 3. Stakeholders
+- HR Department
+- Employees
+- Reporting Managers
+- IT Team
+
+### 4. Scope
+In Scope:
+- Leave application portal
+- Manager approval workflow
+- Leave balance tracking
+- Reporting dashboard
+
+Out of Scope:
+- Payroll integration (Phase 2)
+
+### 5. Functional Requirements
+- Employee can submit leave request online.
+- Manager can approve/reject leave.
+- System updates leave balance automatically.
+- HR can generate leave reports.
+
+### 6. Non-Functional Requirements
+- System should support 500+ users.
+- Data should be secure and role-based access controlled.
+- System availability: 99%.
+
+### 7. Assumptions
+- Employees have unique employee IDs.
+- Leave policies are predefined.
+
+### 8. Risks
+- Resistance to change from employees.
+- Data migration challenges.
