@@ -16,4 +16,3 @@ This repository showcases practical business case studies demonstrating:
 3. E-Commerce KPI Dashboard Case Study
 4. Customer Support Process Optimization
 
-These projects reflect real-world business analysis practices in IT and service-based environments.
