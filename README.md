@@ -2,7 +2,6 @@
 
 Business Analyst with experience in requirement gathering, SQL analysis, KPI reporting, and process improvement.
 
-This repository showcases practical business case studies demonstrating:
 
 - Requirement Documentation (BRD & User Stories)
 - SQL-based Data Analysis
