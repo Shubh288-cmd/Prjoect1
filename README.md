@@ -1,2 +1,19 @@
-# Prjoect1
-Business-Analyst-Portfolio/ │ ├── 1_Requirement_Gathering_Project/ │   ├── BRD_Employee_Leave_Management.md │   ├── User_Stories.csv │ ├── 2_SQL_Data_Analysis_Project/ │   ├── sales_dataset.csv │   ├── analysis_queries.sql │   ├── README.md │ ├── 3_KPI_Dashboard_Case_Study/ README.md  4_Process_Improvement_Case_Study/ │   ├── README.md README.md
+# Business Analyst Portfolio – Shubh Thakkar
+
+Business Analyst with experience in requirement gathering, SQL analysis, KPI reporting, and process improvement.
+
+This repository showcases practical business case studies demonstrating:
+
+- Requirement Documentation (BRD & User Stories)
+- SQL-based Data Analysis
+- KPI Identification & Business Insights
+- Process Optimization & Gap Analysis
+
+## Projects Included
+
+1. Employee Leave Management System – BRD & User Stories
+2. Customer Sales Analysis Using SQL
+3. E-Commerce KPI Dashboard Case Study
+4. Customer Support Process Optimization
+
+These projects reflect real-world business analysis practices in IT and service-based environments.
